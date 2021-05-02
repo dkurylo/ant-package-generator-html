@@ -1,0 +1,10 @@
+[
+	{
+		"name" : "Admin",
+		"password" : "",
+		"readonly" : "false",
+		"profiles" : [
+			"System Administrator"
+		]
+	}
+]
